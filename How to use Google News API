@@ -1,0 +1,4 @@
+Create an account on NewsData.io
+Get Free API Key from dashboard
+Use the "domain" parameter to get news articles from Google News. FOr example- https://newsdata.io/api/1/news?apikey=pub_YOUR_API_KEY&q=games&domainurl=news.google.com
+For more detailed imformation visit: https://newsdata.io/google-news-api
